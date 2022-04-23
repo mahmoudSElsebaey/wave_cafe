@@ -223,6 +223,7 @@ header {
     background-color: rgba(0, 0, 0, 0.6);
     padding: 20px;
     color: #fff;
+    transition: .5s;
     /* border: 1px solid rgb(228, 0, 0); */
 }
 
