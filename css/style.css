@@ -97,7 +97,9 @@ header {
     transition: .5s;
 }
 
-.header_menu {
+.header_menu,
+.header_menu span,
+.header_menu i {
     background-color: #099;
     color: #fff;
 }
@@ -106,13 +108,13 @@ header {
     float: right;
 }
 
-.header_perant:hover{
+.header_perant:hover {
     background-color: #099;
     color: #fff;
     cursor: pointer;
 }
 
-.header_perant:hover  .header_perant_content a{
+.header_perant:hover .header_perant_content a {
     color: #fff;
 }
 
